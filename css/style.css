@@ -894,6 +894,7 @@ margin-bottom: 4px;
     opacity: 0;
     transition: 1s;
 }
+
 @media(max-width : 576px){
     .contact-us form .left {
         width: 100%;
@@ -906,6 +907,22 @@ margin-bottom: 4px;
     }
 }
 /* end contact us */
+
+/* Start footer */
+footer{
+    padding: 20px 0;
+    background-color: #00000e;
+}
+footer .foText{
+    width: 100%;
+    text-align: center;
+}
+footer small{
+    color: #FFF;
+    font-size: 18px;
+    width: 100%;
+}
+/* End footer */
 
 /* start gride system */
  @media (min-width : 576px) {/* phones */
